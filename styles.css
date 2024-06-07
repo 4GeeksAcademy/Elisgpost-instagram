@@ -1,0 +1,67 @@
+.post {
+    width: 400px;
+    margin: 0 auto;
+    background-color: white;
+    /* border: 2px solid red; */
+}
+.post-header {
+    /* border: 2px solid blue; */
+    display: flex;
+}
+.paisaje {
+    width: 397px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    padding-left: 1.5px;
+}
+ p {
+    margin: 0;
+ }
+.bild {
+   width: 30px;
+   height: 30px;
+   float: left;
+   padding-top: 5px;
+}
+.rechts {
+    width: 30px;
+    height: 30px;
+    padding: 3px;
+
+}
+.letras {
+ display: flex;
+ /* border: 2px solid  green; */
+ justify-content: space-between;
+ width: 370px;
+ 
+}
+.links {
+    display: flex;
+}
+.post-icons img {
+    width: 20px;
+    height: 20px;
+    padding: 3px;
+    
+}
+.post-icons {
+    display: flex;
+}
+.dos {
+    display: flex;
+    width: 380px;
+    justify-content: space-between;
+}
+p{
+    margin: 6px;
+    font-size: 13px;
+}
+.p2{
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+body {
+    background-color: black;
+}
